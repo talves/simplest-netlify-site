@@ -1,0 +1,3 @@
+[build]
+  command="mkdir site && echo '<h1>Boop!</h1>' > site/index.html"
+  publish="site"
