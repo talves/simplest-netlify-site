@@ -1,4 +1,4 @@
-[![Netlify Status][status]]][deploys]  
+[![Netlify Status][status]][deploys]  
 
 [![Deploy to Netlify][pic]][command]
 
