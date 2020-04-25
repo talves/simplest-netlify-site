@@ -1,3 +1,5 @@
+## [Site][site]
+
 [![Netlify Status][status]][deploys]  
 
 [![Deploy to Netlify][pic]][command]
@@ -10,3 +12,4 @@ Inspired by: [The world's smallest Netlify function][wsnf] by [Chris Biscardi][c
 [deploys]: https://app.netlify.com/sites/simplest-netlify-site/deploys
 [wsnf]: https://github.com/ChristopherBiscardi/smallest-netlify-function-example
 [chris]: https://twitter.com/chrisbiscardi
+[site]: https://simplest-netlify-site.netlify.app/
